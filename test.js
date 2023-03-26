@@ -15,11 +15,17 @@
 //     }
 //     )()
 <<<<<<< HEAD
+<<<<<<< HEAD
 ddđ
 =======
 111
 >>>>>>> 33acc71 (85%)
+=======
+111
+>>>>>>> feature1
 333
+666b
+a
 function aa (){
     let dd=0;
     function bb(){
